@@ -1,0 +1,12 @@
+{
+  "name": "shift-showdown-v59",
+  "version": "0.59.0",
+  "private": true,
+  "description": "SHIFT SHOWDOWN browser-first two-player private multiplayer alpha",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
